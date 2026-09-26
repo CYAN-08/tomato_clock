@@ -150,11 +150,11 @@ Contributions are welcome:
 
 ## 📈 Stats
 
-<a href="https://star-history.com/#your-username/your-repo&Timeline">
+<a href="https://star-history.com/#CYAN-08/tomato_clock&Timeline">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=your-username/your-repo&type=Timeline&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=your-username/your-repo&type=Timeline" />
-    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=your-username/your-repo&type=Timeline" width="75%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=CYAN-08/tomato_clock&type=Timeline&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=CYAN-08/tomato_clock&type=Timeline" />
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=CYAN-08/tomato_clock&type=Timeline" width="75%" />
   </picture>
 </a>
 
@@ -165,18 +165,18 @@ Contributions are welcome:
 </div>
 
 [back-to-top]: https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square
-[github-project-link]: https://github.com/your-username/your-repo "Tomato Clock"
-[github-issues-link]: https://github.com/your-username/your-repo/issues "Issues"
-[github-issues-shield]: https://img.shields.io/github/issues/your-username/your-repo?style=flat-square&logo=github&label=Issue
-[github-stars-link]: https://github.com/your-username/your-repo/stargazers "Stars"
-[github-stars-shield]: https://img.shields.io/github/stars/your-username/your-repo?style=flat-square&logo=github&label=Star
-[github-forks-link]: https://github.com/your-username/your-repo/network "Forks"
-[github-forks-shield]: https://img.shields.io/github/forks/your-username/your-repo?style=flat-square&logo=github&label=Fork
+[github-project-link]: https://github.com/CYAN-08/tomato_clock "Tomato Clock"
+[github-issues-link]: https://github.com/CYAN-08/tomato_clock/issues "Issues"
+[github-issues-shield]: https://img.shields.io/github/issues/CYAN-08/tomato_clock?style=flat-square&logo=github&label=Issue
+[github-stars-link]: https://github.com/CYAN-08/tomato_clock/stargazers "Stars"
+[github-stars-shield]: https://img.shields.io/github/stars/CYAN-08/tomato_clock?style=flat-square&logo=github&label=Star
+[github-forks-link]: https://github.com/CYAN-08/tomato_clock/network "Forks"
+[github-forks-shield]: https://img.shields.io/github/forks/CYAN-08/tomato_clock?style=flat-square&logo=github&label=Fork
 [github-license-link]: https://opensource.org/licenses/MIT "License"
-[github-license-shield]: https://img.shields.io/github/license/your-username/your-repo?style=flat-square&logo=github&label=License
+[github-license-shield]: https://img.shields.io/github/license/CYAN-08/tomato_clock?style=flat-square&logo=github&label=License
 [python-shield]: https://img.shields.io/badge/Python-3.9+-blue?style=flat-square&logo=python
 [python-link]: https://www.python.org/
 [pyside6-shield]: https://img.shields.io/badge/PySide6-6.5+-green?style=flat-square&logo=qt
 [pyside6-link]: https://pypi.org/project/PySide6/
-[pr-welcome-link]: https://github.com/your-username/your-repo/pulls
+[pr-welcome-link]: https://github.com/CYAN-08/tomato_clock/pulls
 [pr-welcome-shield]: https://img.shields.io/badge/🤯_pr_welcome-%E2%86%92-ffcb47?labelColor=black&style=for-the-badge "PR Welcome"
